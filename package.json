@@ -6,7 +6,7 @@
     },
     "name": "docstring-checker-typescript",
     "version": "1.0.0",
-    "main": "/bin/index.ts",
+    "main": "./bin/index.ts",
     "repository": "git@github.com:wilhelmagren/docstring-checker-typescript.git",
     "author": "Wilhelm Ågren <wilhelmagren98@gmail.com>",
     "license": "MIT",
