@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "glob": "^10.4.1",
+        "moment": "^2.30.1",
+        "ts-node": "^10.9.2"
+    },
+    "name": "docstring-checker-typescript",
+    "version": "1.0.0",
+    "main": "/bin/index.ts",
+    "repository": "git@github.com:wilhelmagren/docstring-checker-typescript.git",
+    "author": "Wilhelm Ågren <wilhelmagren98@gmail.com>",
+    "license": "MIT",
+    "bin": {
+        "dc": "./bin/index.ts"
+    }
+}
